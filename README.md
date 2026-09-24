@@ -1,3 +1,6 @@
+<img src="./img/header.png" alt="Profile Header of Sara Vorhaben" />
+
+
 ## Hi there 👋
 🎓 Computer Science M.S. student at Texas A&M University 
 📍 Originally from Cypress, Texas 
